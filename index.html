@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>shelterz</title>
+    <style>
+      body { margin: 0; background: #0c0c0f; overflow: hidden }
+      canvas { display: block }
+      #hud {
+        position: fixed; left: 8px; bottom: 8px;
+        font: 12px/1.4 ui-monospace, monospace; color: #8a93a0;
+        text-shadow: 0 1px 2px #000; pointer-events: none; white-space: pre;
+      }
+      #chronicle {
+        position: fixed; left: 8px; bottom: 46px;
+        font: 11px/1.5 ui-monospace, monospace; color: #cfc9b8;
+        text-shadow: 0 1px 2px #000; pointer-events: none;
+      }
+      #chronicle div { pointer-events: auto; cursor: pointer }
+      #chronicle div:hover { color: #fff }
+    </style>
+    <script type="module" crossorigin src="./assets/index-NUM8eCcT.js"></script>
+  </head>
+  <body>
+    <canvas id="scene"></canvas>
+    <div id="chronicle"></div>
+    <div id="hud"></div>
+  </body>
+</html>

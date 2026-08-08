@@ -1,0 +1,3 @@
+Git SHA: 9e613631
+Commit: Halve lit lamp density, soften pool intensity so light reveals instead of obscures
+Built: 2026-08-08 23:55:46 UTC
