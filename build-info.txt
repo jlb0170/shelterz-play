@@ -1,3 +1,3 @@
-Git SHA: 23e6b08a
-Commit: Block-sized lamp islands, shadow-casting flashlights, paced single-target MG bursts, parking lots of dead cars, foot-shadow contact fix
-Built: 2026-08-09 13:10:54 UTC
+Git SHA: 4636197f
+Commit: Ground items go 3D and lit, lamp arm bars, animated barrel flames, sagging wires and fallen cable scribbles
+Built: 2026-08-09 13:31:49 UTC
