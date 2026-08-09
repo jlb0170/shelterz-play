@@ -1,3 +1,3 @@
-Git SHA: aa803d04
-Commit: Being shadows are analytic ground decals (sun/moon + nearest lamp/flashlight), never shadow maps
-Built: 2026-08-09 15:04:33 UTC
+Git SHA: c9e86dea
+Commit: Runners face their movement; fires shade beings; darker anchored poles; street scribbles; dawn/dusk fade
+Built: 2026-08-09 15:19:47 UTC
