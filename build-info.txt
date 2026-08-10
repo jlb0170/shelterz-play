@@ -1,3 +1,3 @@
-Git SHA: e87e1506
-Commit: Story launcher: lower-left popper picks a story type, then an entry edge
-Built: 2026-08-10 00:05:29 UTC
+Git SHA: e5084598
+Commit: Story menu arrows use actual screen directions for the rotated camera
+Built: 2026-08-10 00:20:27 UTC
