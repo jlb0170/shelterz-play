@@ -1,3 +1,3 @@
-Git SHA: 4bff4895
-Commit: Swing arcs draw from live windup state; dogs hear combat and rush to rescue
-Built: 2026-08-10 02:18:29 UTC
+Git SHA: 42e9fd84
+Commit: Laptop map preset: ?map=laptop fits the whole world in one window
+Built: 2026-08-10 13:59:26 UTC
