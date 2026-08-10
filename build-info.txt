@@ -1,3 +1,3 @@
-Git SHA: 09d973da
-Commit: Story controls move to the upper right; laptop lull defaults to 1h
-Built: 2026-08-10 15:19:33 UTC
+Git SHA: 8d2dfaa9
+Commit: Bevels only drain deliberate leavers; eruptions and herds respect the clip
+Built: 2026-08-10 15:26:50 UTC
