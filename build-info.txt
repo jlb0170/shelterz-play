@@ -1,3 +1,3 @@
-Git SHA: 493fe07b
-Commit: Hits and misses, standing kill shots, and a three-day field of remains
-Built: 2026-08-10 14:50:13 UTC
+Git SHA: 5395adfa
+Commit: Four-sided world clipping, bigger laptop board, bandage full heal
+Built: 2026-08-10 14:59:57 UTC
