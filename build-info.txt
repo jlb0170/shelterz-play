@@ -1,3 +1,3 @@
-Git SHA: 383423d1
-Commit: Wanderers truly rest at hearths; missioned rests end when stamina tops up
-Built: 2026-08-10 18:13:32 UTC
+Git SHA: b8d306d7
+Commit: Eruptions pour from camera-facing walls so the door is always visible
+Built: 2026-08-10 18:19:31 UTC
