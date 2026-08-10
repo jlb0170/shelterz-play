@@ -1,3 +1,3 @@
-Git SHA: 00e15a53
-Commit: Chronicle: 20% smaller font, military time prefix on every line
-Built: 2026-08-10 15:40:43 UTC
+Git SHA: 981c0dca
+Commit: Chronicle console styling: 8px Courier, phosphor green ink, amber dawn
+Built: 2026-08-10 15:44:30 UTC
