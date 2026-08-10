@@ -1,3 +1,3 @@
-Git SHA: df407726
-Commit: Laptop mode: log clicks pin the creature's detail; no camera jumps on follow
-Built: 2026-08-10 16:30:37 UTC
+Git SHA: 56934941
+Commit: Detail panel docks lower right, pops to upper left when the creature crowds it
+Built: 2026-08-10 16:38:18 UTC
