@@ -1,3 +1,3 @@
-Git SHA: e5084598
-Commit: Story menu arrows use actual screen directions for the rotated camera
-Built: 2026-08-10 00:20:27 UTC
+Git SHA: 4bff4895
+Commit: Swing arcs draw from live windup state; dogs hear combat and rush to rescue
+Built: 2026-08-10 02:18:29 UTC
