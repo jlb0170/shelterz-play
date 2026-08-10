@@ -1,3 +1,3 @@
-Git SHA: 5c7ecda7
-Commit: mode=laptop fills the window edge to edge; story lull slider in hours
-Built: 2026-08-10 14:27:10 UTC
+Git SHA: dcf04b2e
+Commit: Laptop mode clips off-screen corners; the cut acts as a bent map edge
+Built: 2026-08-10 14:32:23 UTC
