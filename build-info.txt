@@ -1,3 +1,3 @@
-Git SHA: 8d2dfaa9
-Commit: Bevels only drain deliberate leavers; eruptions and herds respect the clip
-Built: 2026-08-10 15:26:50 UTC
+Git SHA: 7eb72d65
+Commit: Brownian edge dispersal restored; eruptions spiral out from the center
+Built: 2026-08-10 15:28:23 UTC
