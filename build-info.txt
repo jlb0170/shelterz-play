@@ -1,3 +1,3 @@
-Git SHA: 107b50d3
-Commit: Detail leash goes green; red lines reserved for snipers
-Built: 2026-08-10 16:56:43 UTC
+Git SHA: 628f7b9b
+Commit: Distracted herders lose their edge orientation for good
+Built: 2026-08-10 17:00:08 UTC
